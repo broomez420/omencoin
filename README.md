@@ -1,3 +1,4 @@
 # omencoin
 
-Omencoin is a POW / POS Cryptocurrency
+Omencoin is a POS Cryptocurrency
+it has been brought back from the dead 
